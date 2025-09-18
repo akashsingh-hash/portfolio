@@ -1,6 +1,3 @@
-# Portfolio Bolt.new — Akash Singh
-
-![Portfolio Preview](./public/screenshots/preview.png)
 
 A high‑quality, futuristic personal portfolio for Akash Singh built with React, Tailwind CSS and subtle 3D/animation touches. Glassmorphism cards, neon accents, animated panels and a starfield background create a premium, modern presentation.
 

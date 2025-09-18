@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Portfolio Bolt.new — Akash Singh
 
 ![Portfolio Preview](./public/screenshots/preview.png)
+=======
+>>>>>>> f85f02c9b1977657ffab1da8f4a39d5318caff1f
 
 A high‑quality, futuristic personal portfolio for Akash Singh built with React, Tailwind CSS and subtle 3D/animation touches. Glassmorphism cards, neon accents, animated panels and a starfield background create a premium, modern presentation.
 
@@ -96,4 +99,8 @@ Next improvements (suggested)
 
 If you want, I can:
 - Add a LICENSE file (MIT) to the repo.
+<<<<<<< HEAD
 - Generate a small demo GIF and add `public/screenshots/preview.png` with an example.
+=======
+- Generate a small demo GIF and add `public/screenshots/preview.png` with an example.
+>>>>>>> f85f02c9b1977657ffab1da8f4a39d5318caff1f

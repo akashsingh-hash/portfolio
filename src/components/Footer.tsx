@@ -121,7 +121,7 @@ const Footer: React.FC = () => {
 
             <div className="mt-6">
               <a
-                href="https://drive.google.com/file/d/1edjYJW3_FQUmE_oqVcQxhw1oVgpQdfxo/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1eFii5G3iyHbsKkatEXfmcy-_ZQpxS7uk/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-500 to-purple-600 hover:from-cyan-400 hover:to-purple-500 text-white px-6 py-2 rounded-full text-sm font-semibold transition-all duration-300 transform hover:scale-105"
